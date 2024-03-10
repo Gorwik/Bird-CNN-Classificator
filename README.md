@@ -1,4 +1,4 @@
-# Bird CNN Classificator
+# Bird CNN Classifier
 
 ## Table of Contents
 * [Technologies](#technologies)
